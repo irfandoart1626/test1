@@ -1,1 +1,1 @@
-Ini adala remote repo untuk WOW git lanjutan
+Ini adalah remote repo untuk WOW git lanjutan
